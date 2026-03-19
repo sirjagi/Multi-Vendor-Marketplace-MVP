@@ -1,5 +1,8 @@
 # Multi-Vendor Marketplace MVP
 
+## This Project is Live!
+https://multi-vendor-marketplace-mvp.vercel.app/
+
 ## Overview
 
 This project demonstrates how I design and build **production-style marketplace platforms** for real users, real data, and real business workflows.
